@@ -1,0 +1,21 @@
+# Obsidian local UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace*.json
+
+# Obsidian cache and graph state
+.obsidian/cache/
+.obsidian/graph.json
+
+# Optional: exclude Obsidian plugin code and settings
+.obsidian/plugins/
+
+# Foliate static site build output (regenerated)
+.foliate/build/
+
+# Internal trash
+.trash/
+
+# OS/editor noise
+.DS_Store
+*.swp
