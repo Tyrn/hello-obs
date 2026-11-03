@@ -12,6 +12,7 @@
 
 # Foliate static site build output (regenerated)
 .foliate/build/
+.foliate/cache/
 
 # Internal trash
 .trash/
